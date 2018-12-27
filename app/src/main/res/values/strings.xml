@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRead</string>
+    <string name="title_home">书架</string>
+    <string name="title_dashboard">排行</string>
+    <string name="title_notifications">分类</string>
+    <string name="setting_button">设置</string>
+    <string name="add_button">添加</string>
+    <string name="find_buton">搜索</string>
+</resources>
